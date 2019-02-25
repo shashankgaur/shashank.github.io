@@ -1,4 +1,4 @@
-shashankgaur.github.io
+shashank.github.io
 ======================
 
 Webpage
